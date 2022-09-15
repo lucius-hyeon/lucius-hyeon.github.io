@@ -3,9 +3,9 @@
 # ----- Commons label -----
 
 layout:
-  post: 포스트
-  category: 카테고리
-  tag: 태그
+  post: post
+  category: Categories
+  tag: Tags
 
 # The tabs of sidebar
 tabs:
